@@ -1,4 +1,4 @@
 # Table of contents
 
-* [说明](README.md)
+* [rules](README.md)
 * [members](members.md)
