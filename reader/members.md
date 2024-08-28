@@ -4,4 +4,155 @@ description: members
 
 # members
 
-<table data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th>编号</th><th>全昵称</th><th>格式</th></tr></thead><tbody><tr><td>1</td><td>闪客-北京-美团-基研</td><td>✅</td></tr><tr><td>2</td><td>唐宋元明清-北京-美团-SRE</td><td>✅</td></tr><tr><td>3</td><td>Lee-深圳-唯创- FAE</td><td>✅</td></tr><tr><td>4</td><td>继之-南京-芯云-软件开发C</td><td>✅</td></tr><tr><td>5</td><td>GodSpppp-广州-外包公司-Java开发</td><td>✅</td></tr><tr><td>6</td><td>roc-广州-智驾-C++</td><td>✅</td></tr><tr><td>7</td><td>sail-成都-恒润-bsp</td><td>✅</td></tr><tr><td>8</td><td>大山-成都-贝壳-后端开发</td><td>✅</td></tr><tr><td>9</td><td>王虾片-北京-高途-Java开发</td><td>✅</td></tr><tr><td>10</td><td>小白菜-成都-锦欣集团-运维</td><td>✅</td></tr><tr><td>11</td><td>阳光-东莞-莞城街道办事处-办事员</td><td>✅</td></tr><tr><td>12</td><td>玄德-学生-全栈</td><td>❌</td></tr><tr><td>13</td><td>白杨-广州-C++</td><td>❌</td></tr><tr><td>14</td><td>帽-北京-傲图科技-嵌软</td><td>✅</td></tr><tr><td>15</td><td>一个馒头-北京-小厂-运维</td><td>✅</td></tr><tr><td>16</td><td>当康-大连-大连飞创-交易系统</td><td>✅</td></tr><tr><td>17</td><td>曙光磁铁-合肥-安徽大学</td><td>❌</td></tr><tr><td>18</td><td>时光机~</td><td>❌</td></tr><tr><td>19</td><td>棒棒鸡-深圳-大疆-算法</td><td>✅</td></tr><tr><td>20</td><td>bd7xzz-北京-微博-java,</td><td>✅</td></tr><tr><td>21</td><td>ddd-成都-绿盟-后端</td><td>✅</td></tr><tr><td>22</td><td>轩辕御龙-上海-华为-后端</td><td>✅</td></tr><tr><td>23</td><td>Jayz</td><td>❌</td></tr><tr><td>24</td><td>改改–厦门–翔业集团–网安工程师</td><td>❌</td></tr><tr><td>25</td><td>阳阳-西安-西安电子科技大学-学生</td><td>✅</td></tr><tr><td>26</td><td>红-北京-京东-开发</td><td>✅</td></tr><tr><td>27</td><td>Lancer-北京-网安-技术支持</td><td>✅</td></tr><tr><td>28</td><td>肖奋斗与杨努力</td><td>❌</td></tr><tr><td>29</td><td>光玲-北京-百度-java</td><td>✅</td></tr><tr><td>30</td><td>Matrix-杭州-蚂蚁-Java开发</td><td>✅</td></tr><tr><td>31</td><td>陆云-上海-可之-运维</td><td>✅</td></tr><tr><td>32</td><td>宣-北京-yidu-大数据</td><td>✅</td></tr><tr><td>33</td><td>cdcd-上海-学生-机器人专业</td><td>✅</td></tr><tr><td>34</td><td>LZ-杭州-联芸-嵌入式软件</td><td>✅</td></tr><tr><td>35</td><td>鲤米-北京-滴滴-后端</td><td>✅</td></tr><tr><td>36</td><td>天行健</td><td>❌</td></tr><tr><td>37</td><td>zaza-深圳-赢和-后端开发</td><td>✅</td></tr><tr><td>38</td><td>传球手-北京-昆仑-go开发</td><td>✅</td></tr><tr><td>39</td><td>unnamed 深圳 南科大 硕士</td><td>❌</td></tr><tr><td>40</td><td>Ren Zhijie-蚂蚁-中间件</td><td>❌</td></tr><tr><td>41</td><td>嘻悦_西安_华为_后端开发</td><td>❌</td></tr><tr><td>42</td><td>karl-深圳-天桥-c++</td><td>✅</td></tr><tr><td>43</td><td>小h-成都-迈瑞-开发</td><td>✅</td></tr><tr><td>44</td><td>立少-长沙-湘科-服务</td><td>✅</td></tr><tr><td>45</td><td>嗯呐-福建- 麦卫斯科技-研发</td><td>✅</td></tr><tr><td>46</td><td>CoderPike-嘉兴-纤知-软件</td><td>✅</td></tr><tr><td>47</td><td>大卫-北京-游戏开发</td><td>❌</td></tr><tr><td>48</td><td>登高闻曲-南京-叁拾叁-软件测试</td><td>✅</td></tr><tr><td>49</td><td>jerry-深圳-滚水-后端</td><td>✅</td></tr><tr><td>50</td><td>阿飞-北京-科学院-工程师</td><td>✅</td></tr><tr><td>51</td><td>bllli-北京-医渡云-后端</td><td>✅</td></tr><tr><td>52</td><td>阿远-北京-美团-java</td><td>✅</td></tr><tr><td>53</td><td>温</td><td>❌</td></tr><tr><td>54</td><td>石头-杭州-测开-云动智能</td><td>✅</td></tr><tr><td>55</td><td>小助理</td><td>❌</td></tr><tr><td>56</td><td>Songze Lee_西安-大唐-驱动</td><td>❌</td></tr><tr><td>57</td><td>snake-重庆-广怀-研发</td><td>✅</td></tr><tr><td>58</td><td>我</td><td>❌</td></tr><tr><td>59</td><td>淳子-新加坡-创业-视觉</td><td>✅</td></tr><tr><td>60</td><td>李桥-北京-百度-算法</td><td>✅</td></tr><tr><td>61</td><td>zhanyd-温州-迦南科技-开发</td><td>✅</td></tr><tr><td>62</td><td>沈老爷-北京-联想-研发测试</td><td>✅</td></tr><tr><td>63</td><td>小智-上海-科锐-开发</td><td>✅</td></tr><tr><td>64</td><td>迎风飘扬-惠州-德赛-嵌入式</td><td>✅</td></tr><tr><td>65</td><td>Assert-宁波-学校-教师</td><td>✅</td></tr><tr><td>66</td><td>小白-北京-ceic-数据</td><td>✅</td></tr><tr><td>67</td><td>诸事皆宜-济南-舜玉-杂活之王</td><td>✅</td></tr><tr><td>68</td><td>白夜-上海-数智-资深渗透</td><td>✅</td></tr><tr><td>69</td><td>王吉-杭州-华为-研发</td><td>✅</td></tr><tr><td>70</td><td>andy-杭州-研发</td><td>❌</td></tr><tr><td>71</td><td>道长-上海-Java</td><td>❌</td></tr><tr><td>72</td><td>魄蓝-厦门-新思科技-软件开发</td><td>✅</td></tr><tr><td>73</td><td>宿愿Cc-成都-光厂-前端</td><td>✅</td></tr><tr><td>74</td><td>折辞-北京-华戍-C++</td><td>✅</td></tr><tr><td>75</td><td>星河</td><td>❌</td></tr><tr><td>76</td><td>风吹麦浪_上海 _上海申能 开发</td><td>❌</td></tr><tr><td>77</td><td>cyg-海南-云端-运维</td><td>✅</td></tr><tr><td>78</td><td>景雄-太原-中移设计-信息化设计</td><td>✅</td></tr><tr><td>79</td><td>天国之影-北京-CEIC-系统架构师</td><td>✅</td></tr><tr><td>80</td><td>烟花-成都-TS-BSP</td><td>✅</td></tr><tr><td>81</td><td>Y - 上海 - Visteon - 软件开发</td><td>✅</td></tr><tr><td>82</td><td>晴时明月-北京-得度-研发</td><td>✅</td></tr><tr><td>83</td><td>赵-长沙-飞腾-处理器</td><td>✅</td></tr><tr><td>84</td><td>豆子-保定-行加-运维</td><td>✅</td></tr><tr><td>85</td><td>嗷嗷嗷-杭州-mozu-开发</td><td>✅</td></tr><tr><td>86</td><td>北京 hash 研发</td><td>❌</td></tr><tr><td>87</td><td>Felix-北京-三星-运维</td><td>✅</td></tr><tr><td>88</td><td>西歪-南京-inchi-编译器</td><td>✅</td></tr><tr><td>89</td><td>奥特曼打不过小怪兽-北京-网安-设</td><td>✅</td></tr><tr><td>90</td><td>Akira-海南-区块链研发</td><td>❌</td></tr><tr><td>91</td><td>不学完购买的课程不改ID-沈阳-华苏-</td><td>❌</td></tr><tr><td>92</td><td>文钟-杭州-东合科技-java工程师</td><td>✅</td></tr><tr><td>93</td><td>辰-长沙-麒麟信安-linux驱动开发</td><td>✅</td></tr><tr><td>94</td><td>萌萌的徐凤年</td><td>❌</td></tr><tr><td>95</td><td>AsindE-深圳-元戎启行-仿真</td><td>✅</td></tr><tr><td>96</td><td>少丞-深圳-迈瑞-嵌入式</td><td>✅</td></tr><tr><td>97</td><td>乒乓球-北京-云势-java</td><td>✅</td></tr><tr><td>98</td><td>清风明月</td><td>❌</td></tr><tr><td>99</td><td>Carlos-上海-招行-开发</td><td>✅</td></tr><tr><td>100</td><td>书生-北京-阿丘科技-图像算-</td><td>✅</td></tr><tr><td>101</td><td>Simon-天津-联想-python工程师</td><td>✅</td></tr><tr><td>102</td><td>南风-南京-鼎捷-java</td><td>✅</td></tr><tr><td>103</td><td>阿通-北京-在线教育-javaer</td><td>✅</td></tr><tr><td>104</td><td>叉叉-沈阳-在校-计科</td><td>✅</td></tr><tr><td>105</td><td>stone-厦门-能慧-后端</td><td>✅</td></tr><tr><td>106</td><td>孤本-广州-山海互娱-java游戏服务端</td><td>✅</td></tr><tr><td>107</td><td>-北京-short-前端</td><td>✅</td></tr><tr><td>108</td><td>木鱼-南京-中兴通讯-Java开发</td><td>✅</td></tr><tr><td>109</td><td>大飞-天津-飞虎-项目经理</td><td>✅</td></tr><tr><td>110</td><td>青の花</td><td>❌</td></tr><tr><td>111</td><td>花牛-深圳-雷克沙-运维</td><td>✅</td></tr><tr><td>112</td><td>汤太咸-北京-Unicorecomm-系统软件</td><td>✅</td></tr><tr><td>113</td><td>橘-北京-瑞友-数据库开发</td><td>✅</td></tr><tr><td>114</td><td>amu139-广州-联通产互-大数据</td><td>✅</td></tr><tr><td>115</td><td>一宿君-上海-申通-Java</td><td>✅</td></tr><tr><td>116</td><td>胖熊-北京-云计算-测试</td><td>✅</td></tr><tr><td>117</td><td>fly-北京-aws-Java</td><td>✅</td></tr><tr><td>118</td><td>听水的湖-北京-IT内容-编辑</td><td>✅</td></tr><tr><td>119</td><td>zhuyifei-硅谷-Google-内核</td><td>✅</td></tr><tr><td>120</td><td>熊猫-南京-中兴-软开</td><td>✅</td></tr><tr><td>121</td><td>昵称-香港-摩根-开发</td><td>✅</td></tr><tr><td>122</td><td>王珏-诸城-妇幼-信息科</td><td>✅</td></tr><tr><td>123</td><td>Clannd</td><td>❌</td></tr><tr><td>124</td><td>小草-北京-中联华诺-嵌入式开发</td><td>✅</td></tr><tr><td>125</td><td>zzzzzzzz-广州-学生-金融</td><td>✅</td></tr><tr><td>126</td><td>云狼宝宝说-苏州-中磊电子-软件研发</td><td>✅</td></tr><tr><td>127</td><td>斯文的野蛮人</td><td>❌</td></tr><tr><td>128</td><td>bing-北京-金山-大数据</td><td>✅</td></tr><tr><td>129</td><td>高奎-福州-学校-学生</td><td>✅</td></tr><tr><td>130</td><td>小白-重庆-重大-教师</td><td>✅</td></tr><tr><td>131</td><td>好多好想-宁波-任大-java全栈</td><td>✅</td></tr><tr><td>132</td><td>虎子-合肥-金途-python云桌面</td><td>✅</td></tr><tr><td>133</td><td>高大远</td><td>❌</td></tr><tr><td>134</td><td>Gabriel-西安-翼支付-Java</td><td>✅</td></tr><tr><td>135</td><td>谓风-长沙-北斗-bsp</td><td>✅</td></tr><tr><td>136</td><td>听雨轩-济南-浪潮-软测</td><td>✅</td></tr><tr><td>137</td><td>zhupyter</td><td>❌</td></tr><tr><td>138</td><td>ita</td><td>❌</td></tr><tr><td>139</td><td>定墣</td><td>❌</td></tr><tr><td>140</td><td>Kin</td><td>❌</td></tr><tr><td>141</td><td>Lalalaa-福州-兴业-Java开发</td><td>✅</td></tr><tr><td>142</td><td>七七-深圳-深信服-技术支持</td><td>✅</td></tr><tr><td>143</td><td>Etan</td><td>❌</td></tr><tr><td>144</td><td>Fg-合肥-讯飞-软件</td><td>✅</td></tr><tr><td>145</td><td>AIchemist</td><td>❌</td></tr><tr><td>146</td><td>Relax，take it easy</td><td>❌</td></tr><tr><td>147</td><td>慢慢</td><td>❌</td></tr><tr><td>148</td><td>今朝-南京-华为-研发</td><td>✅</td></tr><tr><td>149</td><td>Vincent</td><td>❌</td></tr><tr><td>150</td><td>Estrella-北京-阿里- java</td><td>✅</td></tr><tr><td>151</td><td>王一-合肥-hrg-软</td><td>✅</td></tr></tbody></table>
+| ✅  001 \| 闪客-北京-美团-基研             |
+| --------------------------------- |
+| ✅  002 \| 唐宋元明清-北京-美团-SRE         |
+| ✅  003 \| Lee-深圳-唯创- FAE          |
+| ✅  004 \| 继之-南京-芯云-软件开发C          |
+| ✅  005 \| GodSpppp-广州-外包公司-Java开发 |
+| ✅  006 \| roc-广州-智驾-C++           |
+| ✅  007 \| sail-成都-恒润-bsp          |
+| ✅  008 \| 大山-成都-贝壳-后端开发           |
+| ✅  009 \| 王虾片-北京-高途-Java开发        |
+| ✅  010 \| 小白菜-成都-锦欣集团-运维          |
+| ✅  011 \| 阳光-东莞-莞城街道办事处-办事员       |
+| ❌  012 \| 玄德-学生-全栈                |
+| ❌  013 \| 白杨-广州-C++               |
+| ✅  014 \| 帽-北京-傲图科技-嵌软            |
+| ✅  015 \| 一个馒头-北京-小厂-运维           |
+| ✅  016 \| 当康-大连-大连飞创-交易系统         |
+| ❌  017 \| 曙光磁铁-合肥-安徽大学            |
+| ❌  018 \| 时光机\~                   |
+| ✅  019 \| 棒棒鸡-深圳-大疆-算法            |
+| ✅  020 \| bd7xzz-北京-微博-java,      |
+| ✅  021 \| ddd-成都-绿盟-后端            |
+| ✅  022 \| 轩辕御龙-上海-华为-后端           |
+| ❌  023 \| Jayz                    |
+| ❌  024 \| 改改–厦门–翔业集团–网安工程师        |
+| ✅  025 \| 阳阳-西安-西安电子科技大学-学生       |
+| ✅  026 \| 红-北京-京东-开发              |
+| ✅  027 \| Lancer-北京-网安-技术支持       |
+| ❌  028 \| 肖奋斗与杨努力                 |
+| ✅  029 \| 光玲-北京-百度-java           |
+| ✅  030 \| Matrix-杭州-蚂蚁-Java开发     |
+| ✅  031 \| 陆云-上海-可之-运维             |
+| ✅  032 \| 宣-北京-yidu-大数据           |
+| ✅  033 \| cdcd-上海-学生-机器人专业        |
+| ✅  034 \| LZ-杭州-联芸-嵌入式软件          |
+| ✅  035 \| 鲤米-北京-滴滴-后端             |
+| ❌  036 \| 天行健                     |
+| ✅  037 \| zaza-深圳-赢和-后端开发         |
+| ✅  038 \| 传球手-北京-昆仑-go开发          |
+| ❌  039 \| unnamed 深圳 南科大 硕士       |
+| ❌  040 \| Ren Zhijie-蚂蚁-中间件       |
+| ❌  041 \| 嘻悦\_西安\_华为\_后端开发        |
+| ✅  042 \| karl-深圳-天桥-c++          |
+| ✅  043 \| 小h-成都-迈瑞-开发             |
+| ✅  044 \| 立少-长沙-湘科-服务             |
+| ✅  045 \| 嗯呐-福建- 麦卫斯科技-研发         |
+| ✅  046 \| CoderPike-嘉兴-纤知-软件      |
+| ❌  047 \| 大卫-北京-游戏开发              |
+| ✅  048 \| 登高闻曲-南京-叁拾叁-软件测试        |
+| ✅  049 \| jerry-深圳-滚水-后端          |
+| ✅  050 \| 阿飞-北京-科学院-工程师           |
+| ✅  051 \| bllli-北京-医渡云-后端         |
+| ✅  052 \| 阿远-北京-美团-java           |
+| ❌  053 \| 温                       |
+| ✅  054 \| 石头-杭州-测开-云动智能           |
+| ❌  055 \| 小助理                     |
+| ❌  056 \| Songze Lee\_西安-大唐-驱动    |
+| ✅  057 \| snake-重庆-广怀-研发          |
+| ❌  058 \| 我                       |
+| ✅  059 \| 淳子-新加坡-创业-视觉            |
+| ✅  060 \| 李桥-北京-百度-算法             |
+| ✅  061 \| zhanyd-温州-迦南科技-开发       |
+| ✅  062 \| 沈老爷-北京-联想-研发测试          |
+| ✅  063 \| 小智-上海-科锐-开发             |
+| ✅  064 \| 迎风飘扬-惠州-德赛-嵌入式          |
+| ✅  065 \| Assert-宁波-学校-教师         |
+| ✅  066 \| 小白-北京-ceic-数据           |
+| ✅  067 \| 诸事皆宜-济南-舜玉-杂活之王         |
+| ✅  068 \| 白夜-上海-数智-资深渗透           |
+| ✅  069 \| 王吉-杭州-华为-研发             |
+| ❌  070 \| andy-杭州-研发              |
+| ❌  071 \| 道长-上海-Java              |
+| ✅  072 \| 魄蓝-厦门-新思科技-软件开发         |
+| ✅  073 \| 宿愿Cc-成都-光厂-前端           |
+| ✅  074 \| 折辞-北京-华戍-C++            |
+| ❌  075 \| 星河                      |
+| ❌  076 \| 风吹麦浪\_上海 \_上海申能 开发      |
+| ✅  077 \| cyg-海南-云端-运维            |
+| ✅  078 \| 景雄-太原-中移设计-信息化设计        |
+| ✅  079 \| 天国之影-北京-CEIC-系统架构师      |
+| ✅  080 \| 烟花-成都-TS-BSP            |
+| ✅  081 \| Y - 上海 - Visteon - 软件开发 |
+| ✅  082 \| 晴时明月-北京-得度-研发           |
+| ✅  083 \| 赵-长沙-飞腾-处理器             |
+| ✅  084 \| 豆子-保定-行加-运维             |
+| ✅  085 \| 嗷嗷嗷-杭州-mozu-开发          |
+| ❌  086 \| 北京 hash 研发              |
+| ✅  087 \| Felix-北京-三星-运维          |
+| ✅  088 \| 西歪-南京-inchi-编译器         |
+| ✅  089 \| 奥特曼打不过小怪兽-北京-网安-设       |
+| ❌  090 \| Akira-海南-区块链研发          |
+| ❌  091 \| 不学完购买的课程不改ID-沈阳-华苏-     |
+| ✅  092 \| 文钟-杭州-东合科技-java工程师      |
+| ✅  093 \| 辰-长沙-麒麟信安-linux驱动开发     |
+| ❌  094 \| 萌萌的徐凤年                  |
+| ✅  095 \| AsindE-深圳-元戎启行-仿真       |
+| ✅  096 \| 少丞-深圳-迈瑞-嵌入式            |
+| ✅  097 \| 乒乓球-北京-云势-java          |
+| ❌  098 \| 清风明月                    |
+| ✅  099 \| Carlos-上海-招行-开发         |
+| ✅  100 \| 书生-北京-阿丘科技-图像算-         |
+| ✅  101 \| Simon-天津-联想-python工程师   |
+| ✅  102 \| 南风-南京-鼎捷-java           |
+| ✅  103 \| 阿通-北京-在线教育-javaer       |
+| ✅  104 \| 叉叉-沈阳-在校-计科             |
+| ✅  105 \| stone-厦门-能慧-后端          |
+| ✅  106 \| 孤本-广州-山海互娱-java游戏服务端    |
+| ✅  107 \| -北京-short-前端           |
+| ✅  108 \| 木鱼-南京-中兴通讯-Java开发       |
+| ✅  109 \| 大飞-天津-飞虎-项目经理           |
+| ❌  110 \| 青の花                     |
+| ✅  111 \| 花牛-深圳-雷克沙-运维            |
+| ✅  112 \| 汤太咸-北京-Unicorecomm-系统软件 |
+| ✅  113 \| 橘-北京-瑞友-数据库开发           |
+| ✅  114 \| amu139-广州-联通产互-大数据      |
+| ✅  115 \| 一宿君-上海-申通-Java          |
+| ✅  116 \| 胖熊-北京-云计算-测试            |
+| ✅  117 \| fly-北京-aws-Java         |
+| ✅  118 \| 听水的湖-北京-IT内容-编辑         |
+| ✅  119 \| zhuyifei-硅谷-Google-内核   |
+| ✅  120 \| 熊猫-南京-中兴-软开             |
+| ✅  121 \| 昵称-香港-摩根-开发             |
+| ✅  122 \| 王珏-诸城-妇幼-信息科            |
+| ❌  123 \| Clannd                  |
+| ✅  124 \| 小草-北京-中联华诺-嵌入式开发        |
+| ✅  125 \| zzzzzzzz-广州-学生-金融       |
+| ✅  126 \| 云狼宝宝说-苏州-中磊电子-软件研发      |
+| ❌  127 \| 斯文的野蛮人                  |
+| ✅  128 \| bing-北京-金山-大数据          |
+| ✅  129 \| 高奎-福州-学校-学生             |
+| ✅  130 \| 小白-重庆-重大-教师             |
+| ✅  131 \| 好多好想-宁波-任大-java全栈       |
+| ✅  132 \| 虎子-合肥-金途-python云桌面      |
+| ❌  133 \| 高大远                     |
+| ✅  134 \| Gabriel-西安-翼支付-Java     |
+| ✅  135 \| 谓风-长沙-北斗-bsp            |
+| ✅  136 \| 听雨轩-济南-浪潮-软测            |
+| ❌  137 \| zhupyter                |
+| ❌  138 \| ita                     |
+| ❌  139 \| 定墣                      |
+| ❌  140 \| Kin                     |
+| ✅  141 \| Lalalaa-福州-兴业-Java开发    |
+| ✅  142 \| 七七-深圳-深信服-技术支持          |
+| ❌  143 \| Etan                    |
+| ✅  144 \| Fg-合肥-讯飞-软件             |
+| ❌  145 \| AIchemist               |
+| ❌  146 \| Relax，take it easy      |
+| ❌  147 \| 慢慢                      |
+| ✅  148 \| 今朝-南京-华为-研发             |
+| ❌  149 \| Vincent                 |
+| ✅  150 \| Estrella-北京-阿里- java    |
+| ✅  151 \| 王一-合肥-hrg-软             |
