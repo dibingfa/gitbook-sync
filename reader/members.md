@@ -1,5 +1,5 @@
 ---
-description: members
+description: 昵称格式：昵称-城市-公司-岗位，✅ 表示通过 ❌ 表示格式有误，请尽快修改
 ---
 
 # members
