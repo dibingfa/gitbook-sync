@@ -19,6 +19,9 @@ description: 我平时工作、生活和写作时最常用的工具
 | [useadrenaline](https://useadrenaline.com/) | 在线代码解读 AI      |
 | [txyz](https://www.txyz.ai/)                | 读论文 AI         |
 | [Storm](https://storm.genie.stanford.edu/)  | AI 生成论文级别的文章   |
+| [gpti](https://chatgpti.cc/)                | 免登录免费 GPT4 站点  |
+| [NotebookLM](https://notebooklm.google/)    | 可以阅读理解文档并生成对话  |
+| [ForecastAI](https://forecast.safe.ai/)     | 预测分析           |
 
 ### 在线编程和阅读代码工具 <a href="#zai-xian-bian-cheng-he-yue-du-dai-ma-gong-ju" id="zai-xian-bian-cheng-he-yue-du-dai-ma-gong-ju"></a>
 
